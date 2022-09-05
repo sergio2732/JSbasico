@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.parrafo{
+    width: 40%;
+    height: auto;
+    background:chocolate;
+    color: aqua;
+    margin: 4% auto;
+    padding: 5px;
+}
